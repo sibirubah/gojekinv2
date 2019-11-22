@@ -1,14 +1,14 @@
 *UPDATE GOJEKIN SANTUY V2*
 
-APPS REQUIRED :
+**APPS REQUIRED :**
 
-- TERMUX
+**- TERMUX**
 
-- GOJEK
+**- GOJEK**
 
-- Wajib Nomor Baru / Belum Terdaftar App Gojek
+**- Wajib Nomor Baru / Belum Terdaftar App Gojek**
 
-- 2ndline / Textnow
+**- 2ndline / Textnow (Guna untuk membuat Nomor US)**
 
 
 ***Step By Step Command Line On Termux :***
