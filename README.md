@@ -6,7 +6,9 @@ APPS REQUIRED :
 
 - GOJEK
 
-- WAJIB NOMOR BARU atau NOMOR YANG BELUM TERDAFTAR GOJEK
+- Wajib Nomor Baru / Belum Terdaftar App Gojek
+
+- 2ndline / Textnow
 
 
 Step By Step Command Line On Termux :
@@ -21,7 +23,7 @@ Step By Step Command Line On Termux :
 
 5. cd gojekin
 
-6. php gojek.php
+6. php gojekv2.php
 
 7. masukin nomor hp
 
