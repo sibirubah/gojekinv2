@@ -3,20 +3,18 @@
 *SCRIPT SANTUY UPDATED*
 
 APPS REQUIRED :
-
-TERMUX
-GOJEK
-WAJIB NOMOR BARU atau NOMOR YANG BELUM TERDAFTAR GOJEK
+-TERMUX
+-GOJEK
+-WAJIB NOMOR BARU atau NOMOR YANG BELUM TERDAFTAR GOJEK
 
 Step By Step Command Line On Termux :
-
-pkg install php
-pkg install curl
-pkg install git
-git clone https://github.com/sibirubah/gojekinv2
-cd gojekin
-php gojek.php
-masukin nomor hp
-masukin kode verifikasi(OTP)
-pilih kode voucher
-repeat(ulangi seperti biasa)
+1.pkg install php
+2.pkg install curl
+3.pkg install git
+4.git clone https://github.com/sibirubah/gojekinv2
+5.cd gojekin
+6.php gojek.php
+7.masukin nomor hp
+8.masukin kode verifikasi(OTP)
+9.pilih kode voucher
+10.repeat(ulangi seperti biasa)
