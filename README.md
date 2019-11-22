@@ -1,29 +1,32 @@
+*UPDATE GOJEKIN SANTUY V2
+
 APPS REQUIRED :
 
-TERMUX
+-TERMUX
 
-GOJEK
+-GOJEK
 
-WAJIB NOMOR BARU atau NOMOR YANG BELUM TERDAFTAR GOJEK
+- WAJIB NOMOR BARU atau NOMOR YANG BELUM TERDAFTAR GOJEK
+
 
 Step By Step Command Line On Termux :
 
-pkg install php
+1.pkg install php
 
-pkg install curl
+2.pkg install curl
 
-pkg install git
+3.pkg install git
 
-git clone https://github.com/sibirubah/gojekin
+4.git clone https://github.com/sibirubah/gojekinv2
 
-cd gojekin
+5.cd gojekin
 
-php gojek.php
+6.php gojek.php
 
-masukin nomor hp
+7.masukin nomor hp
 
-masukin kode verifikasi(OTP)
+8.masukin kode verifikasi(OTP)
 
-pilih kode voucher
+9.pilih kode voucher
 
-repeat(ulangi seperti biasa)
+10.repeat(ulangi seperti biasa)
